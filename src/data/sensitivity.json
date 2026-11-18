@@ -1,0 +1,331 @@
+{
+ "bat": [
+  {
+   "label": "top_share=0.2",
+   "overlap_with_base": 8,
+   "n_elig": 229
+  },
+  {
+   "label": "top_share=0.25",
+   "overlap_with_base": 10,
+   "n_elig": 253
+  },
+  {
+   "label": "top_share=0.3",
+   "overlap_with_base": 8,
+   "n_elig": 274
+  },
+  {
+   "label": "elig N>=24,M>=3",
+   "overlap_with_base": 10,
+   "n_elig": 335
+  },
+  {
+   "label": "elig N>=24,M>=5",
+   "overlap_with_base": 10,
+   "n_elig": 275
+  },
+  {
+   "label": "elig N>=24,M>=7",
+   "overlap_with_base": 10,
+   "n_elig": 227
+  },
+  {
+   "label": "elig N>=36,M>=3",
+   "overlap_with_base": 10,
+   "n_elig": 283
+  },
+  {
+   "label": "elig N>=36,M>=5",
+   "overlap_with_base": 10,
+   "n_elig": 253
+  },
+  {
+   "label": "elig N>=36,M>=7",
+   "overlap_with_base": 10,
+   "n_elig": 217
+  },
+  {
+   "label": "elig N>=48,M>=3",
+   "overlap_with_base": 10,
+   "n_elig": 245
+  },
+  {
+   "label": "elig N>=48,M>=5",
+   "overlap_with_base": 10,
+   "n_elig": 230
+  },
+  {
+   "label": "elig N>=48,M>=7",
+   "overlap_with_base": 10,
+   "n_elig": 205
+  },
+  {
+   "label": "final weights H/R/C=0.6/0.25/0.15",
+   "overlap_with_base": 10,
+   "n_elig": 253
+  },
+  {
+   "label": "final weights H/R/C=0.5/0.3/0.2",
+   "overlap_with_base": 10,
+   "n_elig": 253
+  },
+  {
+   "label": "final weights H/R/C=0.7/0.2/0.1",
+   "overlap_with_base": 9,
+   "n_elig": 253
+  },
+  {
+   "label": "final weights H/R/C=0.8/0.1/0.1",
+   "overlap_with_base": 9,
+   "n_elig": 253
+  },
+  {
+   "label": "final weights H/R/C=1.0/0.0/0.0",
+   "overlap_with_base": 8,
+   "n_elig": 253
+  },
+  {
+   "label": "final weights H/R/C=0.6/0.4/0.0",
+   "overlap_with_base": 8,
+   "n_elig": 253
+  },
+  {
+   "label": "final weights H/R/C=0.5/0.5/0.0",
+   "overlap_with_base": 8,
+   "n_elig": 253
+  },
+  {
+   "label": "final weights H/R/C=0.7/0.0/0.3",
+   "overlap_with_base": 10,
+   "n_elig": 253
+  },
+  {
+   "label": "scoring weight=0.5",
+   "overlap_with_base": 10,
+   "n_elig": 253
+  },
+  {
+   "label": "scoring weight=0.8",
+   "overlap_with_base": 9,
+   "n_elig": 253
+  },
+  {
+   "label": "scoring weight=1.0",
+   "overlap_with_base": 9,
+   "n_elig": 253
+  },
+  {
+   "label": "W component unshrunk (sensitivity)",
+   "overlap_with_base": 10,
+   "n_elig": 253
+  },
+  {
+   "label": "hierarchical: shrink pressure toward own baseline",
+   "overlap_with_base": 3,
+   "n_elig": 253
+  },
+  {
+   "label": "pressure form=leverage only",
+   "overlap_with_base": 7,
+   "n_elig": 253
+  },
+  {
+   "label": "pressure form=threat x live",
+   "overlap_with_base": 6,
+   "n_elig": 247
+  },
+  {
+   "label": "naive rule: death overs or chase RRR>=9",
+   "overlap_with_base": 3,
+   "n_elig": 343
+  },
+  {
+   "label": "IPL only",
+   "overlap_with_base": 7,
+   "n_elig": 145
+  },
+  {
+   "label": "T20I only",
+   "overlap_with_base": 5,
+   "n_elig": 234
+  },
+  {
+   "label": "2022-24 only",
+   "overlap_with_base": 8,
+   "n_elig": 250
+  },
+  {
+   "label": "2025-26 only",
+   "overlap_with_base": 5,
+   "n_elig": 173
+  }
+ ],
+ "bowl": [
+  {
+   "label": "top_share=0.2",
+   "overlap_with_base": 7,
+   "n_elig": 213
+  },
+  {
+   "label": "top_share=0.25",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "top_share=0.3",
+   "overlap_with_base": 8,
+   "n_elig": 254
+  },
+  {
+   "label": "elig N>=24,M>=3",
+   "overlap_with_base": 10,
+   "n_elig": 302
+  },
+  {
+   "label": "elig N>=24,M>=5",
+   "overlap_with_base": 10,
+   "n_elig": 244
+  },
+  {
+   "label": "elig N>=24,M>=7",
+   "overlap_with_base": 10,
+   "n_elig": 195
+  },
+  {
+   "label": "elig N>=36,M>=3",
+   "overlap_with_base": 10,
+   "n_elig": 270
+  },
+  {
+   "label": "elig N>=36,M>=5",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "elig N>=36,M>=7",
+   "overlap_with_base": 10,
+   "n_elig": 195
+  },
+  {
+   "label": "elig N>=48,M>=3",
+   "overlap_with_base": 10,
+   "n_elig": 232
+  },
+  {
+   "label": "elig N>=48,M>=5",
+   "overlap_with_base": 10,
+   "n_elig": 221
+  },
+  {
+   "label": "elig N>=48,M>=7",
+   "overlap_with_base": 10,
+   "n_elig": 191
+  },
+  {
+   "label": "final weights H/R/C=0.6/0.25/0.15",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "final weights H/R/C=0.5/0.3/0.2",
+   "overlap_with_base": 8,
+   "n_elig": 237
+  },
+  {
+   "label": "final weights H/R/C=0.7/0.2/0.1",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "final weights H/R/C=0.8/0.1/0.1",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "final weights H/R/C=1.0/0.0/0.0",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "final weights H/R/C=0.6/0.4/0.0",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "final weights H/R/C=0.5/0.5/0.0",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "final weights H/R/C=0.7/0.0/0.3",
+   "overlap_with_base": 8,
+   "n_elig": 237
+  },
+  {
+   "label": "scoring weight=0.5",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "scoring weight=0.8",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "scoring weight=1.0",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "W component unshrunk (sensitivity)",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  },
+  {
+   "label": "hierarchical: shrink pressure toward own baseline",
+   "overlap_with_base": 7,
+   "n_elig": 237
+  },
+  {
+   "label": "pressure form=leverage only",
+   "overlap_with_base": 7,
+   "n_elig": 234
+  },
+  {
+   "label": "pressure form=threat x live",
+   "overlap_with_base": 7,
+   "n_elig": 241
+  },
+  {
+   "label": "naive rule: death overs or chase RRR>=9",
+   "overlap_with_base": 4,
+   "n_elig": 272
+  },
+  {
+   "label": "IPL only",
+   "overlap_with_base": 5,
+   "n_elig": 144
+  },
+  {
+   "label": "T20I only",
+   "overlap_with_base": 5,
+   "n_elig": 225
+  },
+  {
+   "label": "2022-24 only",
+   "overlap_with_base": 5,
+   "n_elig": 223
+  },
+  {
+   "label": "2025-26 only",
+   "overlap_with_base": 4,
+   "n_elig": 189
+  },
+  {
+   "label": "extras_2 charged to bowler",
+   "overlap_with_base": 10,
+   "n_elig": 237
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+[
+ {
+  "innings": 1,
+  "phase": "death",
+  "balls": 24997,
+  "high_share_pct": 30.3
+ },
+ {
+  "innings": 1,
+  "phase": "middle",
+  "balls": 45014,
+  "high_share_pct": 29.2
+ },
+ {
+  "innings": 1,
+  "phase": "powerplay",
+  "balls": 30414,
+  "high_share_pct": 14.4
+ },
+ {
+  "innings": 2,
+  "phase": "death",
+  "balls": 18063,
+  "high_share_pct": 30.5
+ },
+ {
+  "innings": 2,
+  "phase": "middle",
+  "balls": 43390,
+  "high_share_pct": 25.6
+ },
+ {
+  "innings": 2,
+  "phase": "powerplay",
+  "balls": 29945,
+  "high_share_pct": 19.7
+ }
+]
